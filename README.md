@@ -1,27 +1,27 @@
-# Sistema para gerenciamento de atendimentos por senhas
+# Password service management system
 
-Este programa foi desenvolvido para a comedoria do Sesc Piracicaba durante meu estágio.
-Ao digitar o número da senha e apertar 'enter' uma voz chama o número da senha após um sinal.
+This program was developed for the staff at Sesc Piracicaba during my internship.
+When typing the password number and pressing 'enter' a voice calls the password number after a tone.
 
 ## Instalação
 
-Coloque a pasta
+put the folder
 ```bash
-É necessário colocar a pasta 'Senhas' no directorio 'C:\'
+It is necessary to place the folder 'Passwords' in the directory 'C:\'
 ```
 
-## Requisitos
+## Requirements
 
 ```
-1x - TV com entrada HDMI
-1x - Monitor com entrada HDMI
-1x - Computador com duas entradas HDMI
-1x - Sistema Operacional Windows 10
-1x - Mini teclado numérico
+1x - TV with HDMI input
+1x - Monitor with HDMI input
+1x - Computer with two HDMI inputs
+1x - Windows 10 Operating System
+1x - Mini numeric keypad
 
 ```
 
-## Imagens
+## Images
 
 ![1](https://user-images.githubusercontent.com/37887270/70619803-8bd23200-1bf4-11ea-968e-1ea0028e8e6d.jpg)
 ![3](https://user-images.githubusercontent.com/37887270/70619863-a2788900-1bf4-11ea-951e-1e09f362e50f.jpg)
