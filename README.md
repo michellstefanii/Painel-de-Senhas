@@ -3,7 +3,7 @@
 This program was developed for the staff at Sesc Piracicaba during my internship.
 When typing the password number and pressing 'enter' a voice calls the password number after a tone.
 
-## Instalação
+## Installation
 
 put the folder
 ```bash
